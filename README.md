@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @suntochukwu
-- 👀 I’m interested in back end development,web3 full stack development (solidity,javascript, react js)
-- 🌱 I’m currently learning (Python Fast API, Solidity, MS Azure cloud)
+- Currently an engineering manager for classic football shirts- Most of my repos are private 
+- 👀 I’m interested in full stack development (solidity,javascript, react js) and anything remotely interesting tech idea
+- 🌱 I’m currently use (Python Fast API, Solidity, MS Azure cloud, GCP) daily
 - 💞️ I’m looking to collaborate on data engineering projects and web3 projects
 - 📫 How to reach me here
 
